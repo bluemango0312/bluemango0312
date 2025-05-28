@@ -38,7 +38,7 @@ IT 기술로 함께 만들어가는 것을 꿈꿉니다.
 - SmartThings API 연동 + Jetpack Compose 기반의 직관적 UI
 - IoT, AI, UX를 결합한 차세대 기기 제어 패러다임
 
-#### 🗣️ [Lip It! – AI 영어 회화 학습 앱]([https://github.com/bluemango0312/pill-ai](https://github.com/bluemango0312/Lip-It-))
+#### 🗣️ [Lip It! – AI 영어 회화 학습 앱](https://github.com/bluemango0312/pill-ai](https://github.com/bluemango0312/Lip-It-)
 - 사용자가 AI 보이스(셀럽/커스텀)와 통화하며 실전처럼 회화 연습
 - WebSocket 기반 실시간 대화 + RAG로 대화 맥락 유지
 - Coqui TTS 및 XTTS 기반 음성 생성 모델 활용

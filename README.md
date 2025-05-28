@@ -36,12 +36,14 @@ IT 기술로 함께 만들어가는 것을 꿈꿉니다.
 #### 🧙‍♂️ [LUMOS – 제스처 기반 스마트홈 제어](https://github.com/bluemango0312/lumos)
 - Galaxy Watch 제스처 + 스마트폰 UWB 방향 감지로 스마트홈 기기 제어
 - SmartThings API 연동 + Jetpack Compose 기반의 직관적 UI
-- IoT, AI, UX를 결합한 차세대 홈오토메이션 시스템
+- IoT, AI, UX를 결합한 차세대 기기 제어 패러다임
 
-#### 💊 [PillAI – 알약 인식 기반 건강 서비스](https://github.com/bluemango0312/pill-ai)
-- YOLOv8 기반 알약 이미지 분류 + Google OCR 병합
-- 처방 정보 불일치 탐지, 유사 약품 제안
-    
+#### 🗣️ [Lip It! – AI 영어 회화 학습 앱]([https://github.com/bluemango0312/pill-ai](https://github.com/bluemango0312/Lip-It-))
+- 사용자가 AI 보이스(셀럽/커스텀)와 통화하며 실전처럼 회화 연습
+- WebSocket 기반 실시간 대화 + RAG로 대화 맥락 유지
+- Coqui TTS 및 XTTS 기반 음성 생성 모델 활용
+- 통화 후 AI가 자동으로 학습 리포트(요약, 표현 교정, 전체 스크립트) 생성
+- 전화 스케줄링, FCM 알림, 커스텀 보이스 생성 등 다채로운 기능 포함    
 
 ### 📫 Contact
 - 🐙 GitHub: [@bluemango0312](https://github.com/bluemango0312)

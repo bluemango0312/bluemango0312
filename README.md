@@ -28,7 +28,6 @@ IT 기술로 함께 만들어가는 것을 꿈꿉니다.
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bluemango0312&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluemango0312&layout=compact&theme=radical" height="150"/>
 </p>
 

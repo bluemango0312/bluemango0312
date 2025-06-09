@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+JeongHu+%F0%9F%91%8B;Android+Developer+%7C+UI%2FUX+Designer;Always+open+to+new+tech!" />
 </p>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bluemango0312&count_bg=%237F52FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-</p>
-
 
 ### 🧑‍💻 About Me
 안녕하세요, 사용자와 기술을 연결하는 **Android 개발자이자 UI/UX 디자이너** 서정후입니다. </BR>
@@ -41,8 +35,16 @@ IT 기술로 함께 만들어가는 것을 꿈꿉니다.
     <img src="https://github-readme-stats.vercel.app/api?username=bluemango0312&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluemango0312&layout=compact&theme=radical" height="150"/>
 </p>
-[![Lumos Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hogumiwarts&count_bg=%234285F4&title_bg=%23000000&icon=android&icon_color=%23FFFFFF&title=Lumos+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![LipIt! Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Arizoonaa&count_bg=%23FF4081&title_bg=%23000000&icon=voiceover&icon_color=%23FFFFFF&title=LipIt!+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### 📚 백준 관련 활동
+
+<p align="center">
+  <!-- 티어 뱃지 (mazassumnida) -->
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=jeonghu1010" />
+
+  <!-- 잔디 스타일 solvedac 활동 뱃지 -->
+  <img src="https://mazandi.herokuapp.com/api?handle=jeonghu1010&theme=cold" />
+</p>
 
 </BR>
 

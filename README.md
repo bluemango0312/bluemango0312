@@ -31,14 +31,16 @@ IT 기술로 함께 만들어가는 것을 꿈꿉니다.
 </BR>
 
 ### 🔥 GitHub Stats
-<p align="center">
+<p align="start">
     <img src="https://github-readme-stats.vercel.app/api?username=bluemango0312&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluemango0312&layout=compact&theme=radical" height="150"/>
 </p>
 
+</BR>
+
 ### 📚 백준 관련 활동
 
-<p align="center">
+<p align="start">
   <!-- 티어 뱃지 (mazassumnida) -->
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=jeonghu1010" />
 

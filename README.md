@@ -3,20 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+JeongHu+%F0%9F%91%8B;Android+Developer+%7C+UI%2FUX+Designer;Always+open+to+new+tech!" />
 </p>
 
-
-### 🧑‍💻 About Me
-안녕하세요, 사용자와 기술을 연결하는 **Android 개발자이자 UI/UX 디자이너** 서정후입니다. </BR>
-Jetpack Compose, UWB, SmartThings, AI 기반 루틴 제어 등
-사용자의 행동을 자연스럽게 기술로 이어주는 미래형 인터페이스에 깊은 관심을 가지고 있습니다.</BR>
-
-직관적인 경험을 설계하는 UI/UX에 매력을 느껴,
-디자인 툴과 프로토타이핑에도 익숙하며 개발과 디자인의 균형을 고민합니다.</BR>
-최근에는 **상태 관리 기술**에 집중하고 있으며,
-**새로운 기술을 빠르게 학습하고 적용하는 일**에 흥미를 느낍니다.</BR>
-
-단순한 구현을 넘어, **기술과 디자인이 조화를 이루는 이상적인 사용자 경험**을
-IT 기술로 함께 만들어가는 것을 꿈꿉니다.
-
 </BR>
 
 ### 🛠️ Tech Stack

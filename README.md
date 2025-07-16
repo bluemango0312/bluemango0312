@@ -16,13 +16,6 @@
 | 👥 협업 및 인프라     | <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>                                                                                                                  |
 </BR>
 
-### 🔥 GitHub Stats
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluemango0312&layout=compact&theme=radical" height="150"/>
-</p>
-
-</BR>
-
 
 ### 📁 대표 프로젝트
 #### 🧙‍♂️ [LUMOS – 제스처 기반 스마트홈 제어](https://github.com/Hogumiwarts) 

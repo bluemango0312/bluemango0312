@@ -23,17 +23,6 @@
 
 </BR>
 
-### 📚 백준 관련 활동
-
-<p align="start">
-  <!-- 티어 뱃지 (mazassumnida) -->
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=jeonghu1010" />
-
-  <!-- 잔디 스타일 solvedac 활동 뱃지 -->
-  <img src="https://mazandi.herokuapp.com/api?handle=jeonghu1010&theme=cold" />
-</p>
-
-</BR>
 
 ### 📁 대표 프로젝트
 #### 🧙‍♂️ [LUMOS – 제스처 기반 스마트홈 제어](https://github.com/Hogumiwarts) 

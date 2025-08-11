@@ -14,6 +14,10 @@
 
 </BR>
 
+<p align="start">
+<img src="https://komarev.com/ghpvc/?username=bluemango0312&style=for-the-badge&color=87CEEB&label=Profile+Views" />
+</p>
+
 | 분야                     | 기술 스택                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 📱 **Mobile**          | 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/MVI-0D1117?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM-1976D2?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Hilt-34A853?style=flat&logo=dagger&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-007396?style=flat&logo=retrofit&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-00B8D4?style=flat&logo=websockets&logoColor=white"/> |
@@ -50,8 +54,14 @@
 - 💼 Notion 포트폴리오: [정후의 DevLog](https://unruly-dormouse-cf7.notion.site/Jeonghu-Seo-3786edd42f3946cda0571d6c8a4eec14?pvs=4)
 - 💻 VELOG: [Android Developer's Logbook](https://velog.io/@bluemango0312/posts)
 
+
 </BR>
 </BR>
 
-> **“코드와 디자인 사이, 그 어딘가에서 더 나은 경험을 고민합니다.”**  
+> **“코드와 디자인 사이, 그 어딘가에서 더 나은 경험을 고민합니다.”**
+>
+
+</br>
+
+
 

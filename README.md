@@ -14,9 +14,7 @@
 
 </BR>
 
-<p align="start">
-<img src="https://hits.sh/github.com/bluemango0312.svg?view=today-total&style=flat-square&label=오늘+방문&color=87CEEB&v=1" />
-</p>
+![Today's Visits](https://hits.sh/github.com/bluemango0312.svg?view=today&style=flat-square&label=오늘%20방문&color=87CEEB)
 
 
 | 분야                     | 기술 스택                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

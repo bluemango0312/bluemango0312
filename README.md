@@ -14,7 +14,7 @@
 
 </BR>
 
-![Today's Visits](https://hits.sh/github.com/bluemango0312.svg?view=today&style=flat-square&label=Today's%20Visits&color=87CEEB)
+![Visits](https://hits.sh/github.com/bluemango0312.svg?view=today-total&style=flat-square&label=Today%20%2F%20Total&color=87CEEB)
 
 
 | 분야                     | 기술 스택                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

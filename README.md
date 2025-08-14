@@ -49,6 +49,7 @@
 
 ### 📫 Contact
 - 🐙 GitHub: [@bluemango0312](https://github.com/bluemango0312)
+- ☁️ Tistory: [Passion, Young, Fever ｡𖦹°‧⭑.ᐟ](https://bluemang0.tistory.com/)
 - 📮 Email: jeonghu1010@naver.com
 - 💼 Notion 포트폴리오: [정후의 DevLog](https://unruly-dormouse-cf7.notion.site/Jeonghu-Seo-3786edd42f3946cda0571d6c8a4eec14?pvs=4)
 - 💻 VELOG: [Android Developer's Logbook](https://velog.io/@bluemango0312/posts)

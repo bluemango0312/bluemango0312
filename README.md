@@ -46,6 +46,12 @@
 
 </BR>
 
+### ⌨️ Baekjoon
+[![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=jeonghu1010)](https://solved.ac/profile/jeonghu1010)
+![Mazandi](https://mazandi.herokuapp.com/api?handle=jeonghu1010&theme=dark)
+
+</br>
+
 
 ### 📫 Contact
 - 🐙 GitHub: [@bluemango0312](https://github.com/bluemango0312)

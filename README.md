@@ -3,14 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+JeongHu+%F0%9F%91%8B;Android+Developer+%7C+UI%2FUX+Designer;Always+open+to+new+tech!" />
 </p>
 
-✋🏻 안녕하세요, **사용자와 기술을 연결하는 개발자** 서정후입니다.
+✋🏻 안녕하세요, **기술을 서비스로 번역하는 개발자** 서정후입니다.
 
 새로운 기술을 빠르게 익히고, 디자인과 개발을 겸하며 끊임없이 **기획에 대한 고민을 놓지 않는 것**이 저의 장점이에요.
 제스처 기반 스마트홈 제어 앱 **LUMOS**, 실시간 AI 영어 학습 앱 **LipIt!** 등에서 **직관적인 UX와 모바일 아키텍처를 직접 설계하고 구현**해왔습니다.
 
 개발 외에는 **책과 글을 통해 삶의 다양한 면들을 고찰하고, 탐구하는 것**을 즐깁니다. 그 안에서 얻은 통찰을 기술로 녹여내어, 세상을 더 재밌고 흥미롭게 만들어가고 싶어요!
 
-오늘도 카페인 수혈을 하며 저만의 데일리 잔디를 심어나가고 있습니다 🌿
+오늘도 저만의 데일리 잔디를 심어나가고 있습니다 🌿
 
 </BR>
 
